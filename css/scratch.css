@@ -53,23 +53,6 @@ body {background-color: ivory;}
 h1 {text-align: center;}
 
 
-.footer {
-    position: relative;
-    margin: -180px;
-    bottom: 5px;
-    left: 5px;
-    right: 5px;
-    height: 50px;
-    border-top: dashed 2px gray;
-    color: gray;
-    font-size: small;
-    text-align: center;
-    margin: auto;
-    opacity: 50%;
-
-}
-
-
 .testfoot {
     margin: 20px;
     position: relative;
@@ -110,3 +93,5 @@ h1 {text-align: center;}
     width: 100%;
     height: auto;
 }
+
+.tab {background-color: white;}
